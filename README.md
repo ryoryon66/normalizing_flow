@@ -8,6 +8,9 @@ The prior distribution used in this code is N(0,I) and the target distribution i
 ![image](https://github.com/ryoryon66/normalizing_flow/assets/46624038/0081b705-7611-4d73-bb12-160d2d407826)
 ![demo](https://github.com/ryoryon66/normalizing_flow/blob/main/saved_gifs/target_distribution.gif)
 
+Double moon version
+![demo](https://github.com/ryoryon66/normalizing_flow/blob/main/saved_gifs/transformation_steps_double_moon.gif)
+
 
 ## model architecture
 ```
