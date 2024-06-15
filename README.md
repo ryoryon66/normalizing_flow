@@ -9,6 +9,7 @@ The prior distribution used in this code is N(0,I) and the target distribution i
 ![demo](https://github.com/ryoryon66/normalizing_flow/blob/main/saved_gifs/target_distribution.gif)
 
 Double moon version
+
 ![demo](https://github.com/ryoryon66/normalizing_flow/blob/main/saved_gifs/transformation_steps_double_moon.gif)
 
 
